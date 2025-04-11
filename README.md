@@ -1,4 +1,4 @@
-# How-to-Use-Chain-of-Draft-Prompting-for-Better-AI-Responses-
+# Chain of Draft Prompting Implementation
 This repository showcases how to implement Chain of Draft prompting example with source code using Groq and Google Geminii.
 
 ## Steps to Implement Chain-of-Draft (CoD) Prompting

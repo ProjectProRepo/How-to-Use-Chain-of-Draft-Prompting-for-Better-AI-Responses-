@@ -50,4 +50,7 @@ You can try two methods:
 - **Zero-shot prompting**: Only system prompt + question.
 - **One-shot prompting**: Add a similar example followed by your new question.
 
-Both can help you observe how well the model performs with or without examples.
+Both can help you observe how well the model performs with or without examples. 
+
+## Complete Hands-On Code
+Read the article [How to use Chain of Draft Prompting for Better LLM Responses?](https://www.projectpro.io/article/chain-of-draft-prompting/1120) for the complete tutorial along with the working code discussed in this repository.
